@@ -7,7 +7,7 @@ import QuizCard from "./QuizCard.tsx";
 
 import { motion } from "motion/react";
 
-import nagrodaZdjecie from "@/assets/pimpa/nagroda.jpg";
+import nagrodaZdjecie from "@/assets/missing.png";
 import bumbum from "@/assets/bumbum.mp4";
 import timolha from "@/assets/timolha.jpg";
 
