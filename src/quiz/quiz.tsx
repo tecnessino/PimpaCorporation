@@ -3,7 +3,6 @@ import React from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
-import ConfettiExplosion from "react-confetti-explosion";
 import QuizCard from "./QuizCard.tsx";
 
 import { motion } from "motion/react";
